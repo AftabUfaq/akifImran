@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "175623181296",
+    "project_id": "pomo-9db77",
+    "storage_bucket": "pomo-9db77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175623181296:android:83fc59dc26470dab3e0335",
+        "android_client_info": {
+          "package_name": "com.hershjoshi.pomo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175623181296-gggo39871rmkn2nqlj2q1fkmm5tllv5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hershjoshi.pomo",
+            "certificate_hash": "e56f18cdb129fdf64d1ffe6e7e7449cc85afdbc4"
+          }
+        },
+        {
+          "client_id": "175623181296-lldoepkvmh295i59ueeel8460qgtrqi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hershjoshi.pomo",
+            "certificate_hash": "efee5c7257f04f2148c455930d4da614a567fc37"
+          }
+        },
+        {
+          "client_id": "175623181296-84d3ujrcoqai0o02te7o2g2n4b8nk4tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATHE2-iLEskenDVyDMrg_NWC0OadBM2ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175623181296-84d3ujrcoqai0o02te7o2g2n4b8nk4tg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "175623181296-eflgs5u4g6np51ouvdfqirn7hgp7c3id.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hershjoshi.pomo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
